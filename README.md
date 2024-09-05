@@ -3,8 +3,9 @@ Evan Lehr
 Exercise 0 - Dodge the creeps
 
 
-Assets downloaded from Godot's "Your first 2D game" tutorial https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html
-Licensed under CC BY 3.0
+Music: House In A Forest Loop -  Copyright © 2012 [HorrorPen](https://opengameart.org/users/horrorpen), CC-BY 3.0: Attribution. Source: https://opengameart.org/content/loop-house-in-a-forest
+Art: Images are from Kenney's "Abstract Platformer" pack. Created in 2016 by kenney.nl, CC0 1.0 Universal. Source: https://www.kenney.nl/assets/abstract-platformer
+Font: Font is "Xolonium". Copyright © 2011-2016 Severin Meyer, licensed under SIL Open Font Licennse, version 1.1. The copyright can be found here http://scripts.sil.org/OF
 
 
 Project Report:
